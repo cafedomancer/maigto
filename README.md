@@ -1,16 +1,15 @@
-# maigto
+# 毎日インスタ投稿
 
-A new Flutter project.
+毎日インスタ投稿は、Instagram への投稿をできるだけ手軽に行えるようにする便利アプリです。その日に投稿したい写真を設定しておくだけで、いい感じに投稿しておいてもらえます。
 
-## Getting Started
+## 起動方法
 
-This project is a starting point for a Flutter application.
+```sh
+$ flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## テスト方法
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+$ flutter test
+```
